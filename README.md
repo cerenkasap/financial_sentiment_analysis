@@ -213,13 +213,3 @@ Applied Logistic Regression model with the optimal hyperparameters and got 66% A
 The Confusion Matrix above shows that our model needs to be improved to categorize sentiments better.
 
 Thanks for reading :) 
-
-
-..png "Confusion Matrix of Financial Sentiment Analysis")
-
-The Confusion Matrix above shows that our model needs to be improved to categorize sentiments better.
-
-Thanks for reading :) 
-
-
-
