@@ -1,6 +1,6 @@
 ### Financial Sentiment Analysis 📈: Project Overview
 
-Created a model that can classifies a Financial sentences as a Positive, Negative, or Neutral sentiment with **(66% Accuracy)** to detects polarity within the text.
+Created a model that can classify a Financial sentence as a Positive, Negative, or Neutral sentiment with **(66% Accuracy)** to detect polarity within the text.
 
 Pulled over **5842 examples** from Kaggle using pandas and opendatasets libraries in python.
 
